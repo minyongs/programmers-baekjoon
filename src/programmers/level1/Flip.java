@@ -1,7 +1,7 @@
 package programmers.level1;
 
 import java.util.Arrays;
-
+//내 풀이
 public class Flip {
 
     public int[] solution(long n) {
