@@ -2,7 +2,7 @@ package baekjoon.silver;
 
 import java.util.Scanner;
 
-//사과가 바구니보다 왼쪽 혹은 오른쪽 에 떨어지면 ,맨끝 인덱스의 바구니가 거기까지만 이동하면 최소로 이동할 수 있다
+//사과가 바구니보다 왼쪽 혹은 오른쪽 에 떨어지면 ,맨끝 인덱스의 바구니가 거기까지만 이동하면 최소로 이동할 수 있다/
 public class BaekJoon_2828 {
     public static void main(String[] args) {
 
