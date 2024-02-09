@@ -1,3 +1,5 @@
+package baekjoon.silver;
+
 import java.util.Scanner;
 public class BaekJoon_1681 {
     public static void main(String[] args) {
