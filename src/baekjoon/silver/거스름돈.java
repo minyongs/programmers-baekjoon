@@ -3,7 +3,7 @@ import java.util.Scanner;
 //거스름돈
 //5로 최대한 많이 나눌수록 최소 횟수가 나온다
 //5로 나누어질때까지 2를 빼서 5로 나눠서 풀었음
-public class BaekJoon_14916 {
+public class 거스름돈 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
