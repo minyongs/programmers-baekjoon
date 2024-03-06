@@ -5,7 +5,7 @@ package baekjoon.silver;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
-public class BaekJoon_11047 {
+public class 동전0 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
